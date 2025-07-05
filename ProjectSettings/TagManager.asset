@@ -6,6 +6,17 @@ TagManager:
   tags:
   - Floor
   - Groud
+  - Cutter
+  - SwordP
+  - Ground
+  - CutterWeapon
+  - CutterP
+  - Sword
+  - Bacum
+  - SwordWeapon
+  - PlayerUI
+  - GameOver
+  - Goal
   layers:
   - Default
   - TransparentFX
